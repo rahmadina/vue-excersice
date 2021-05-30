@@ -1,5 +1,7 @@
 <template>
   <div class="center">
+      <h2>User</h2>
+      <h1>Testoooo</h1>
     <h1 class="namakelas">User Name</h1>
     <h1>Test Json</h1>
     <TableComp :datas="data" :titles="titles"></TableComp>
