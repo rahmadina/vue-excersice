@@ -1,6 +1,7 @@
 <template>
   <div class="center">
       <h2>User</h2>
+      <h1>Testoooo</h1>
     <TableComp :datas="data" :titles="titles"></TableComp>
   </div>
 </template>
